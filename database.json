@@ -1,4 +1,10 @@
 {
+  "workspace": {
+    "https://github.com/debil1/greycat.git": [
+      "debil1/greycat",
+      "1573332030419"
+    ]
+  },
   "studio-open-web": {},
   "BowlerStudioConfigs": {
     "fontsize": 12.0,
